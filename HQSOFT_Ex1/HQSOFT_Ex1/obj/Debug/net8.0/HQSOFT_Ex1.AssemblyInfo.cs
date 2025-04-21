@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HQSOFT_Ex1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9cd2d3cca7ab6932d9da86c4f4c19513cd31199")]
 [assembly: System.Reflection.AssemblyProductAttribute("HQSOFT_Ex1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HQSOFT_Ex1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

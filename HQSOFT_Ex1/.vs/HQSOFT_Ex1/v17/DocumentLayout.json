@@ -1,7 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|d:\\myproject\\hqsoft_ex1\\hqsoft_ex1\\hqsoft_ex1\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|solutionrelative:hqsoft_ex1\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|d:\\myproject\\hqsoft_ex1\\hqsoft_ex1\\hqsoft_ex1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|solutionrelative:hqsoft_ex1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|d:\\myproject\\hqsoft_ex1\\hqsoft_ex1\\hqsoft_ex1\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|solutionrelative:hqsoft_ex1\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|d:\\myproject\\hqsoft_ex1\\hqsoft_ex1\\hqsoft_ex1\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|solutionrelative:hqsoft_ex1\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|d:\\myproject\\hqsoft_ex1\\hqsoft_ex1\\hqsoft_ex1\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|solutionrelative:hqsoft_ex1\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|d:\\myproject\\hqsoft_ex1\\hqsoft_ex1\\hqsoft_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|solutionrelative:hqsoft_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|d:\\myproject\\hqsoft_ex1\\hqsoft_ex1\\hqsoft_ex1\\samplewebapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|solutionrelative:hqsoft_ex1\\samplewebapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|d:\\myproject\\hqsoft_ex1\\hqsoft_ex1\\hqsoft_ex1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|solutionrelative:hqsoft_ex1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|d:\\myproject\\hqsoft_ex1\\hqsoft_ex1\\hqsoft_ex1\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|solutionrelative:hqsoft_ex1\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|d:\\myproject\\hqsoft_ex1\\hqsoft_ex1\\hqsoft_ex1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|solutionrelative:hqsoft_ex1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|d:\\myproject\\hqsoft_ex1\\hqsoft_ex1\\hqsoft_ex1\\dtos\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|solutionrelative:hqsoft_ex1\\dtos\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|d:\\myproject\\hqsoft_ex1\\hqsoft_ex1\\hqsoft_ex1\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4B0393-6D42-4BFB-9104-D3F4488E0182}|HQSOFT_Ex1\\HQSOFT_Ex1.csproj|solutionrelative:hqsoft_ex1\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +58,166 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "HQSOFT_Ex1\\DTOs\\BookDto.cs",
+              "ToolTip": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "HQSOFT_Ex1\\DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:18:54.802Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "HQSOFT_Ex1\\WeatherForecast.cs",
+              "ToolTip": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\WeatherForecast.cs",
+              "RelativeToolTip": "HQSOFT_Ex1\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:06:31.082Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:323948898:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\appsettings.json",
+              "RelativeDocumentMoniker": "HQSOFT_Ex1\\appsettings.json",
+              "ToolTip": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\appsettings.json",
+              "RelativeToolTip": "HQSOFT_Ex1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T10:19:33.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\Program.cs",
+              "RelativeDocumentMoniker": "HQSOFT_Ex1\\Program.cs",
+              "ToolTip": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\Program.cs",
+              "RelativeToolTip": "HQSOFT_Ex1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:19:18.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SampleWebApiContext.cs",
+              "DocumentMoniker": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\SampleWebApiContext.cs",
+              "RelativeDocumentMoniker": "HQSOFT_Ex1\\SampleWebApiContext.cs",
+              "ToolTip": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\SampleWebApiContext.cs",
+              "RelativeToolTip": "HQSOFT_Ex1\\SampleWebApiContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:17:57.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportDto.cs",
+              "DocumentMoniker": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\DTOs\\ReportDto.cs",
+              "RelativeDocumentMoniker": "HQSOFT_Ex1\\DTOs\\ReportDto.cs",
+              "ToolTip": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\DTOs\\ReportDto.cs",
+              "RelativeToolTip": "HQSOFT_Ex1\\DTOs\\ReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:11:36.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "HQSOFT_Ex1\\Controllers\\ReportsController.cs",
+              "ToolTip": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "HQSOFT_Ex1\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:56:49.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "HQSOFT_Ex1\\Entities\\Author.cs",
+              "ToolTip": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\Entities\\Author.cs",
+              "RelativeToolTip": "HQSOFT_Ex1\\Entities\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:46:31.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\DTOs\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "HQSOFT_Ex1\\DTOs\\AuthorDto.cs",
+              "ToolTip": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\DTOs\\AuthorDto.cs",
+              "RelativeToolTip": "HQSOFT_Ex1\\DTOs\\AuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:46:22.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "HQSOFT_Ex1\\Entities\\Book.cs",
+              "ToolTip": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\Entities\\Book.cs",
+              "RelativeToolTip": "HQSOFT_Ex1\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:16:02.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "HQSOFT_Ex1\\Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "HQSOFT_Ex1\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:54:31.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "HQSOFT_Ex1\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\MyProject\\HQSOFT_Ex1\\HQSOFT_Ex1\\HQSOFT_Ex1\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "HQSOFT_Ex1\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:31:35.132Z",
+              "EditorCaption": ""
             }
           ]
         }

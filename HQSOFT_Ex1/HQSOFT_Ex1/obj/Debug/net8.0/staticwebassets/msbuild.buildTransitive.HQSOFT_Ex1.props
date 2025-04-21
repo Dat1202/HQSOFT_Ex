@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HQSOFT_Ex1.props" />
+</Project>
